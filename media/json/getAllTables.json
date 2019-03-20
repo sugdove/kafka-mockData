@@ -1,0 +1,226 @@
+[
+  {
+    "tableName": "A1HBaseStore06143",
+    "enable": true
+  },
+  {
+    "tableName": "A1HBaseStore06145",
+    "enable": true
+  },
+  {
+    "tableName": "A1HBaseStore06146",
+    "enable": true
+  },
+  {
+    "tableName": "A1HBaseStore4",
+    "enable": true
+  },
+  {
+    "tableName": "DO01",
+    "enable": true
+  },
+  {
+    "tableName": "DO02CUNCHU",
+    "enable": true
+  },
+  {
+    "tableName": "DO02CUNCHU002",
+    "enable": true
+  },
+  {
+    "tableName": "DO02CUNCHU03",
+    "enable": true
+  },
+  {
+    "tableName": "HBaseSinkTable001",
+    "enable": true
+  },
+  {
+    "tableName": "HBaseSinkTable002",
+    "enable": true
+  },
+  {
+    "tableName": "HBaseSinkTable01",
+    "enable": true
+  },
+  {
+    "tableName": "HBaseSinkTable02",
+    "enable": true
+  },
+  {
+    "tableName": "HBaseSinkTable03",
+    "enable": true
+  },
+  {
+    "tableName": "HBaseTest",
+    "enable": true
+  },
+  {
+    "tableName": "apache_atlas_entity_audit",
+    "enable": true
+  },
+  {
+    "tableName": "apache_atlas_janus",
+    "enable": true
+  },
+  {
+    "tableName": "asdasdasd",
+    "enable": true
+  },
+  {
+    "tableName": "datalog",
+    "enable": true
+  },
+  {
+    "tableName": "destqltable006",
+    "enable": true
+  },
+  {
+    "tableName": "destqltable006rz",
+    "enable": true
+  },
+  {
+    "tableName": "destqltable007",
+    "enable": true
+  },
+  {
+    "tableName": "destqltable009",
+    "enable": true
+  },
+  {
+    "tableName": "details",
+    "enable": true
+  },
+  {
+    "tableName": "dsg3",
+    "enable": true
+  },
+  {
+    "tableName": "hbaseTest",
+    "enable": true
+  },
+  {
+    "tableName": "hbaseTest2",
+    "enable": true
+  },
+  {
+    "tableName": "kafkaTest01",
+    "enable": true
+  },
+  {
+    "tableName": "kafkaTest02",
+    "enable": true
+  },
+  {
+    "tableName": "p70",
+    "enable": true
+  },
+  {
+    "tableName": "replication_source_table",
+    "enable": true
+  },
+  {
+    "tableName": "showtopic001",
+    "enable": true
+  },
+  {
+    "tableName": "showtopic01",
+    "enable": true
+  },
+  {
+    "tableName": "sync_log",
+    "enable": true
+  },
+  {
+    "tableName": "tab_flume_test1",
+    "enable": true
+  },
+  {
+    "tableName": "tab_flume_test2",
+    "enable": true
+  },
+  {
+    "tableName": "tab_flume_test3",
+    "enable": true
+  },
+  {
+    "tableName": "tab_test1",
+    "enable": true
+  },
+  {
+    "tableName": "test001_a",
+    "enable": true
+  },
+  {
+    "tableName": "test123123",
+    "enable": true
+  },
+  {
+    "tableName": "test2",
+    "enable": true
+  },
+  {
+    "tableName": "test3",
+    "enable": true
+  },
+  {
+    "tableName": "test456456",
+    "enable": true
+  },
+  {
+    "tableName": "testKafka01",
+    "enable": true
+  },
+  {
+    "tableName": "testRowkey",
+    "enable": true
+  },
+  {
+    "tableName": "testasdasd",
+    "enable": true
+  },
+  {
+    "tableName": "testtable2",
+    "enable": true
+  },
+  {
+    "tableName": "testtable3",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic01",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic02",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic03",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic04",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic05",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic06",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic07",
+    "enable": true
+  },
+  {
+    "tableName": "testtopic08",
+    "enable": true
+  },
+  {
+    "tableName": "tohabaseshow1",
+    "enable": true
+  }
+]

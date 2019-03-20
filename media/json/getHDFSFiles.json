@@ -1,0 +1,16 @@
+{
+  "/jars": "isDir",
+  "/app": "isDir",
+  "/hbase": "isDir",
+  "/usr": "isDir",
+  "/hbase-output-002": "isDir",
+  "/hbase-output-001": "isDir",
+  "/user": "isDir",
+  "/etl": "isDir",
+  "/hbase-input-001": "isDir",
+  "/model.db": "isDir",
+  "/solr": "isDir",
+  "/test23": "isFile",
+  "/system": "isDir",
+  "/tmp": "isDir"
+}

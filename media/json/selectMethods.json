@@ -1,0 +1,58 @@
+[
+  {
+    "file": "dsg_kmeans.R",
+    "method": "dsg_kmeans",
+    "description": "K-均值聚类",
+    "type": "分类建模",
+    "parameters": "{\"T输入路径\":\"原始文件在hdfs上的路径\",\"L列名\":\"数据的列名，用逗号隔开\",\"I聚类数量\":\"分成多少类，int类型\",\"F输出路径\":\"模型保存的路径\",\"N模型名称\":\"用于区分模型\"}"
+  },
+  {
+    "file": "“”",
+    "method": "“”",
+    "description": "二阶聚类",
+    "type": "分类建模",
+    "parameters": "“”"
+  },
+  {
+    "file": "“”",
+    "method": "“”",
+    "description": "系统聚类",
+    "type": "分类建模",
+    "parameters": "“”"
+  },
+  {
+    "file": "“”",
+    "method": "“”",
+    "description": "聚类轮廓",
+    "type": "分类建模",
+    "parameters": "“”"
+  },
+  {
+    "file": "dsg_decision_tree.R",
+    "method": "decision_tree",
+    "description": "决策树",
+    "type": "分类建模",
+    "parameters": "{\"T输入路径\":\"原始文件在hdfs上的路径\",\"L响应栏\":\"分类的目标属性\",\"F输出路径\":\"模型保存的路径\",\"N模型名称\":\"用于区分模型\"}"
+  },
+  {
+    "file": "“”",
+    "method": "“”",
+    "description": "判别式",
+    "type": "分类建模",
+    "parameters": "“”"
+  },
+  {
+    "file": "“”",
+    "method": "“”",
+    "description": "最近邻元素",
+    "type": "分类建模",
+    "parameters": "“”"
+  },
+  {
+    "file": "dsg_random_forest.R",
+    "method": "random_forest",
+    "description": "随机森林",
+    "type": "分类建模",
+    "parameters": "{\"T输入路径\":\"原始文件在hdfs上的路径\",\"L响应栏\":\"分类的目标属性\",\"P模型类型\":\"当用作回归时传入regression，当用作分类是传入classification\",\"P信息增益\":\"在树节点处考虑拆分的最小信息增益。 应该> = 0，默认为0\",\"F输出路径\":\"模型保存的路径\",\"N模型名称\":\"用于区分模型\"}"
+  }
+]

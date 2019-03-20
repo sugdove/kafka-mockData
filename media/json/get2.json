@@ -1,0 +1,17 @@
+[
+  {
+    "storepath": "\"hdfs:///user/hdfs/output/1524463511984\"",
+    "inputpath": "\"hdfs:///user/hdfs/dataOfShow/test_data.csv\"",
+    "description": "决策树1",
+    "evaluateResult": null,
+    "type": "分类建模",
+    "serverid": "76e7bef6b27a48dca94dc76e588c7512",
+    "jobId": "",
+    "timestemp": "2018-04-23 14:05:12",
+    "classPath": "decision_tree",
+    "jar": "/var/lib/hadoop-hdfs/mytomcat/tomcat/webapps/dsg_decision_tree.R",
+    "parameters": "\"hdfs:///user/hdfs/dataOfShow/test_data.csv\",\"Species\",\"hdfs:///user/hdfs/output/1524463511984\",决策树1",
+    "status": "运行结束",
+    "spendTime": null
+  }
+]

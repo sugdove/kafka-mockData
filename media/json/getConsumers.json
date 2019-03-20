@@ -1,0 +1,12 @@
+[
+  {
+    "todo": "fromHbase",
+    "zookeeper": "192.168.2.76:2181,192.168.2.77:2181,192.168.2.78:2181/hbase1",
+    "timestam": "2018-01-04 12:02:58",
+    "topic": "topic_haha",
+    "description": "aaaaaaaaaaaa",
+    "id": "bf34029c-c0ca-4253-804c-5ada4116068a",
+    "tablename": "A1HBaseStore06143",
+    "groupname": ""
+  }
+]
